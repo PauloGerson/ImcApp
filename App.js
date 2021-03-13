@@ -39,6 +39,7 @@ export default class App  extends Component <Props>{
           <Image source={logo} style={styles.logo}></Image>
           <Text style={styles.text}>Calculadodra de IMC</Text>
         </View>
+        
 
     <View style={styles.principal}> 
            {/* <TextInput style={styles.form} placeholder='Nome' textContentType= 'name' onChangeText={(nome)=>{this.setState({nome})}}/> */}
